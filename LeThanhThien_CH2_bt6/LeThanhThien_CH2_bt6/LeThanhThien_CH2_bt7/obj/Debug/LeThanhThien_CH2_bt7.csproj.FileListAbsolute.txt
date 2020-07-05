@@ -1,0 +1,5 @@
+D:\LeThanhThien_CH2_bt6\LeThanhThien_CH2_bt7\bin\Debug\LeThanhThien_CH2_bt7.exe
+D:\LeThanhThien_CH2_bt6\LeThanhThien_CH2_bt7\bin\Debug\LeThanhThien_CH2_bt7.pdb
+D:\LeThanhThien_CH2_bt6\LeThanhThien_CH2_bt7\obj\Debug\LeThanhThien_CH2_bt7.csprojResolveAssemblyReference.cache
+D:\LeThanhThien_CH2_bt6\LeThanhThien_CH2_bt7\obj\Debug\LeThanhThien_CH2_bt7.exe
+D:\LeThanhThien_CH2_bt6\LeThanhThien_CH2_bt7\obj\Debug\LeThanhThien_CH2_bt7.pdb
