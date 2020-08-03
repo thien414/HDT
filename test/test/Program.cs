@@ -16,6 +16,10 @@ namespace test
             List<NVSanXuat> listNVSX = new List<NVSanXuat>();
             List<NVVanChuyen> listNVVC = new List<NVVanChuyen>();
             List<NVVanPhong> listNVVP = new List<NVVanPhong>();
+            DocFileNVQL(listNVQL);
+            DocFileNVSX(listNVSX);
+            DocFileNVVC(listNVVC);
+            DocFileNVVP(listNVVP);
             int check = 0;
             do
             {

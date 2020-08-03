@@ -4,3 +4,6 @@ D:\học\HDT\test\test\bin\Debug\test.pdb
 D:\học\HDT\test\test\obj\Debug\test.csprojResolveAssemblyReference.cache
 D:\học\HDT\test\test\obj\Debug\test.exe
 D:\học\HDT\test\test\obj\Debug\test.pdb
+C:\Users\Admin\Documents\GitHub\HDT\test\test\bin\Debug\test.exe.config
+C:\Users\Admin\Documents\GitHub\HDT\test\test\obj\Debug\test.exe
+C:\Users\Admin\Documents\GitHub\HDT\test\test\obj\Debug\test.pdb
