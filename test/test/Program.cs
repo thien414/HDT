@@ -4,6 +4,7 @@ using System.Collections.Generic;
 using System.IO;
 using System.Linq;
 using System.Text;
+using System.Threading;
 using System.Threading.Tasks;
 
 namespace test
@@ -68,6 +69,7 @@ namespace test
                                     break;
                                 case 5:
                                     Console.WriteLine("Goobye!");
+                                    Thread.Sleep(2000);
                                     break;
                                 default:
                                     Console.WriteLine("Chon sai chuc nang vui long chon lai!");
@@ -156,6 +158,7 @@ namespace test
                         break;
                     case 6:
                         Console.WriteLine("Goobye!");
+                        Thread.Sleep(2000);
                         break;
                     default:
                         Console.WriteLine("Chon sai chuc nang vui long chon lai!");
