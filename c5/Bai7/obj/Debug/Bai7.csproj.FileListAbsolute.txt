@@ -1,0 +1,5 @@
+D:\Bai1\Bai7\bin\Debug\Bai7.exe
+D:\Bai1\Bai7\bin\Debug\Bai7.pdb
+D:\Bai1\Bai7\obj\Debug\Bai7.csprojResolveAssemblyReference.cache
+D:\Bai1\Bai7\obj\Debug\Bai7.exe
+D:\Bai1\Bai7\obj\Debug\Bai7.pdb

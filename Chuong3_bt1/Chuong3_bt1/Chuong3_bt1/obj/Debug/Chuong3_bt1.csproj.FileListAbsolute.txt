@@ -1,5 +1,0 @@
-D:\Chuong3_bt1\Chuong3_bt1\bin\Debug\Chuong3_bt1.exe
-D:\Chuong3_bt1\Chuong3_bt1\bin\Debug\Chuong3_bt1.pdb
-D:\Chuong3_bt1\Chuong3_bt1\obj\Debug\Chuong3_bt1.csprojResolveAssemblyReference.cache
-D:\Chuong3_bt1\Chuong3_bt1\obj\Debug\Chuong3_bt1.exe
-D:\Chuong3_bt1\Chuong3_bt1\obj\Debug\Chuong3_bt1.pdb
